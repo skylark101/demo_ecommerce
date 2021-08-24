@@ -1,0 +1,31 @@
+Feature Product  Shortcode
+[products limit="10" columns="5" visibility="featured" ]
+
+Last Minute Deals Shortcode
+[products limit="4" columns="4" category="laptop"]
+
+Fotter 1 Code
+<img src="your image url" alt="image text">
+<p>Dummy Content</p>
+
+==================================
+
+Theme: Oceanwp
+
+==================================
+
+Require Plugins
+
+Ocean Extra
+Ocean Product Sharing
+Ocean Social Sharing
+Elementor
+ElementsKit Lite
+Livemesh Addons for Elementor
+Premium Addons for Elementor
+WooCommerce
+WooCommerce Paypal Checkout Gateway
+variation Swatches for WooCommerce
+YITH WooCommerce wishlisht
+Smart Slider 3
+Contact Form 7
